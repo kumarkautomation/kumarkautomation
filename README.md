@@ -4,7 +4,7 @@ A seasonal Automation Test Consultant with hands-on experience in building autom
 # Technology Stack
 | Stack | Tools |
 | --- | --- |
-| UI Automation Tools | Selenium 2 - 4 , VSTS Coded UI |
+| UI Automation Tools | Selenium 2 - 4 , Cypress , VSTS Coded UI |
 | Mobile Automation | Appium |
 | API Automation | Rest Assured , Postman |
 | Performance Tools | Apache Jmeter,Gatling |
@@ -12,6 +12,6 @@ A seasonal Automation Test Consultant with hands-on experience in building autom
 | Test Management | Version One , JIRA and HP ALM |
 | CI/CD  | Jenkins,Docker,AWS |
 | Reporting | Allure |
-| Monitoring | Kibana |
+| Monitoring | Elastic Search - Kibana |
 | Security | OWASP ZAP |
-| IDE | IntelliJ , Eclipse , VSTS |
+| IDE | IntelliJ , Visual Studio Code , Eclipse|
