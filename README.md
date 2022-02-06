@@ -1,5 +1,5 @@
-# KUMAR KANNAN - QA Automation Consultant 
-A seasonal Automation Test Consultant with hands-on experience in building automation strategies implementing innovative solutions predominantly in an agile environment, and creating mature end-to-end test frameworks with an entrepreneurial spirit and knack for getting things done.
+# KUMAR KANNAN - Test Automation Consultant 
+A seasonal Automation Test Consultant with hands-on experience in building automation testing strategies implementing innovative solutions predominantly in an agile environment, and creating mature end-to-end test frameworks with an entrepreneurial spirit and knack for getting things done.
 
 # Technology Stack
 | Stack | Tools |
@@ -7,7 +7,7 @@ A seasonal Automation Test Consultant with hands-on experience in building autom
 | UI Automation Tools | Selenium 2 - 4 , Cypress , VSTS Coded UI |
 | Mobile Automation | Appium |
 | API Automation | Rest Assured , Postman |
-| Performance Tools | Apache Jmeter,Gatling |
+| Performance Tools | Apache Jmeter |
 | BDD | Cucumber |
 | Test Management | Version One , JIRA and HP ALM |
 | CI/CD  | Jenkins,Docker,AWS |
