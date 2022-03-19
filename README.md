@@ -1,5 +1,5 @@
 # KUMAR KANNAN - Test Automation Consultant 
-A seasonal Automation Test Consultant with hands-on experience in building automation testing strategies implementing innovative solutions predominantly in an agile environment, and creating mature end-to-end test frameworks with an entrepreneurial spirit and knack for getting things done.
+Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultant with hands-on experience in building automation testing strategies implementing innovative solutions predominantly in an agile environment, and creating mature end-to-end test frameworks with an entrepreneurial spirit and knack for getting things done.
 
 # Technology Stack
 | Stack | Tools |
