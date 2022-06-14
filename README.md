@@ -19,3 +19,5 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 ![Kumar Kannan's stats](https://github-readme-stats.vercel.app/api?username=kumarkautomation)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kumarkautomation?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkautomation)](https://github.com/kumarkautomation/github-readme-stats)
