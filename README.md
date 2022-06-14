@@ -15,3 +15,5 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Monitoring | Elastic Search - Kibana |
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
+
+:trophy:
