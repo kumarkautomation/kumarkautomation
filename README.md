@@ -16,4 +16,4 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
 
-![github](https://img.shields.io/badge/GitHub-#006600?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-006600?style=for-the-badge&logo=GitHub&logoColor=white)]
