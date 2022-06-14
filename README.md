@@ -16,4 +16,4 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
 
-
+![Kumar Kannan's stats](https://github-readme-stats.vercel.app/api?username=kumarkautomation)](https://github.com/kumarkautomation/github-readme-stats)
