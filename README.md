@@ -16,8 +16,11 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
 
-![Kumar Kannan's stats](https://github-readme-stats.vercel.app/api?username=kumarkautomation)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kumarkautomation?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkautomation)](https://github.com/kumarkautomation/github-readme-stats)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kumark-automation/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
