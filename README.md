@@ -20,7 +20,7 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
 
-### :fire: My Stats :
+### :fire: My Stats 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kumarkautomation?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
 # Reach Me
 <div id="badges">
