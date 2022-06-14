@@ -22,7 +22,7 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kumarkautomation?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
-
+# Reach Me @
 <div id="badges">
   <a href="https://www.linkedin.com/in/kumark-automation/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
