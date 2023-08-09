@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :computer: KUMAR KANNAN - Test Automation Consultant 
+### :computer: KUMAR KANNAN
 
 🤖 Automation Tester | Quality Advocate | Tech Enthusiast 🚀
 
