@@ -6,7 +6,7 @@
 
 🤖 Automation Tester | Quality Advocate | Tech Enthusiast 🚀
 
-Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultant with hands-on experience in building automation testing strategies implementing innovative solutions predominantly in an agile environment, and creating mature end-to-end test frameworks with an entrepreneurial spirit and knack for getting things done.
+Passionate about ensuring software quality through automation. 🌐 Transforming repetitive tasks into efficient and reliable automated tests. Avid explorer of testing frameworks, CI/CD pipelines, and the latest automation tools. 🛠️
 
 ### :hammer_and_wrench: Technology Stack
 | Stack | Tools |
@@ -23,6 +23,10 @@ Goal Oriented , Knowledgeable and self-driven seasonal Automation Test Consultan
 | Security | OWASP ZAP |
 | IDE | IntelliJ , Visual Studio Code , Eclipse|
 
+📚 Sharing knowledge through code and words:
+- Building open-source automation frameworks and utilities 🛠️
+- Active contributor to testing communities on Slack and forums 🤝
+  
 ### :fire: My Stats 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kumarkautomation?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
 ### :link: Reach Me
