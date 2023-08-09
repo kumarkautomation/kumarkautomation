@@ -4,7 +4,7 @@
 
 ### :computer: KUMAR KANNAN
 
-🤖 Automation Tester | Quality Advocate | Tech Enthusiast 🚀
+🤖 Automation Test Consultant | Quality Advocate | Tech Enthusiast 🚀
 
 Passionate about ensuring software quality through automation. 🌐 Transforming repetitive tasks into efficient and reliable automated tests. Avid explorer of testing frameworks, CI/CD pipelines, and the latest automation tools. 🛠️
 
