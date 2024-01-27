@@ -4,14 +4,14 @@
 
 ### :computer: KUMAR KANNAN
 
-🤖 Automation Test Consultant | Quality Advocate | Tech Enthusiast 🚀
+🤖 Devops & Automation Test Consultant | Quality Advocate | Tech Enthusiast 🚀
 
 Passionate about ensuring software quality through automation. 🌐 Transforming repetitive tasks into efficient and reliable automated tests. Avid explorer of testing frameworks, CI/CD pipelines, and the latest automation tools. 🛠️
 
 ### :hammer_and_wrench: Technology Stack
 | Stack | Tools |
 | --- | --- |
-| UI Automation Tools | Selenium 2 - 4 , Cypress , VSTS Coded UI |
+| UI Automation Tools | Selenium , Cypress , VSTS Coded UI |
 | Mobile Automation | Appium |
 | API Automation | Rest Assured , Postman |
 | Performance Tools | Apache Jmeter |
@@ -21,7 +21,7 @@ Passionate about ensuring software quality through automation. 🌐 Transforming
 | Reporting | Allure |
 | Monitoring | Elastic Search - Kibana |
 | Security | OWASP ZAP |
-| IDE | IntelliJ , Visual Studio Code , Eclipse|
+| IDE | Aqua , IntelliJ , Visual Studio Code , Eclipse|
 
 📚 Sharing knowledge through code and words:
 - Building open-source automation frameworks and utilities 🛠️
