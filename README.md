@@ -12,6 +12,7 @@ Passionate about ensuring software quality through automation. 🌐 Transforming
 | Stack | Tools |
 | --- | --- |
 | UI Automation Tools | Selenium , Cypress , Playwright |
+| Languages | Java , JS , C# |
 | Mobile Automation | Appium |
 | API Automation | Rest Assured , Postman |
 | Performance Tools | Apache Jmeter |
