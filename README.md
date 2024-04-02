@@ -11,7 +11,7 @@ Passionate about ensuring software quality through automation. 🌐 Transforming
 ### :hammer_and_wrench: Technology Stack
 | Stack | Tools |
 | --- | --- |
-| UI Automation Tools | Selenium , Cypress , VSTS Coded UI |
+| UI Automation Tools | Selenium , Cypress , Playwright |
 | Mobile Automation | Appium |
 | API Automation | Rest Assured , Postman |
 | Performance Tools | Apache Jmeter |
