@@ -12,17 +12,17 @@ Passionate about ensuring software quality through automation. 🌐 Transforming
 | Stack | Tools |
 | --- | --- |
 | UI Automation Tools | Selenium , Cypress , Playwright |
-| Languages | Java , JS , C# |
+| Languages | Java , Python , JS , C# |
 | Mobile Automation | Appium |
-| API Automation | Rest Assured , Postman |
+| API Automation | Rest Assured , Postman , Pact|
 | Performance Tools | Apache Jmeter |
 | BDD | Cucumber |
 | Test Management | Version One , JIRA and HP ALM |
-| CI/CD  | Jenkins,Docker,AWS |
+| CI/CD  | Jenkins,Docker,AWS,Azure Devops |
 | Reporting | Allure |
 | Monitoring | Elastic Search - Kibana |
 | Security | OWASP ZAP |
-| IDE | Aqua , IntelliJ , Visual Studio Code , Eclipse|
+| IDE | IntelliJ , Visual Studio Code , Eclipse|
 
 📚 Sharing knowledge through code and words:
 - Building open-source automation frameworks and utilities 🛠️
