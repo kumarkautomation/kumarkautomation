@@ -8,7 +8,10 @@
 
 Passionate about ensuring software quality through automation. 🌐 Transforming repetitive tasks into efficient and reliable automated tests. Avid explorer of testing frameworks, CI/CD pipelines, and the latest automation tools. 🛠️
 
-### :hammer_and_wrench: Technology Stack
+
+⚡ Tech Stacks
+
+
 | Stack | Tools |
 | --- | --- |
 | UI Automation Tools | Selenium , Cypress , Playwright |
